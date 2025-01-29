@@ -24,7 +24,12 @@ This repository contains various **AI and ML projects**, including **predictive 
    ```bash
    pip install -r requirements.txt
    ```
-3. Run Jupyter Notebook:  
+3. **Run in Jupyter Notebook:**  
    ```bash
    jupyter notebook
    ```
+   OR  
+   **Run in VS Code:**  
+   - Open the project folder in **VS Code**  
+   - Open a `.py` or `.ipynb` file  
+   - Run the script or notebook  
